@@ -1,13 +1,21 @@
 {
   "name": "lecturelocker",
   "version": "1.0.0",
-  "description": "tai vio si el lecturelocker de nazi",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tu-usuario/lecturelocker.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tu-usuario/lecturelocker/issues"
+  },
+  "homepage": "https://github.com/tu-usuario/lecturelocker#readme",
   "dependencies": {
     "koa": "^2.14.2",
     "koa-bodyparser": "^4.4.0",
